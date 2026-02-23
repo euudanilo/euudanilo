@@ -19,3 +19,10 @@ Me chamo **Danilo Alves** e sou **estudante de Engenharia de Software**. Tenho f
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=euudanilo&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=euudanilo&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=euudanilo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
