@@ -1,6 +1,6 @@
 **`Desenvolvedor Backend`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Danilo+Alves+;I+study+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Danilo+Alves+;I+study+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 Me chamo **Danilo Alves** e sou **estudante de Engenharia de Software**. Tenho foco em **desenvolvimento backend com Java**, criando **APIs REST** com **Spring Boot**. No dia a dia dos meus estudos e projetos, utilizo **PostgreSQL** e **Docker** para desenvolvimento e organização do ambiente. Estou sempre buscando evoluir em boas práticas e construir projetos cada vez mais consistentes.
 
